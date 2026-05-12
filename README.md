@@ -1,6 +1,6 @@
 Student Grade Predictor 
 
-This project uses machine learning to predict a student's final grade based on study habits and academic performance
+This project uses Linear Regression to predict a student's final grade based on study habits and academic performance
 data with considerations for randomness to simulate real world variation. 
 
 The model uses linear regression to learn relationships between hours studied, attendance, assignment average and quiz average in order to predict final grades. 
